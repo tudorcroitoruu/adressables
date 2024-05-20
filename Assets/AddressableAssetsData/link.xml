@@ -1,0 +1,198 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Gaia.AutoAssignTakePhotoEvent" preserve="all" />
+    <type fullname="Gaia.AutoDepthOfField" preserve="all" />
+    <type fullname="Gaia.CommandBufferManager" preserve="all" />
+    <type fullname="Gaia.CustomGaiaController" preserve="all" />
+    <type fullname="Gaia.DraggableUIWindow" preserve="all" />
+    <type fullname="Gaia.FollowPlayerSystem" preserve="all" />
+    <type fullname="Gaia.FreeCamera" preserve="all" />
+    <type fullname="Gaia.GaiaGlobal" preserve="all" />
+    <type fullname="Gaia.GaiaSceneCullingProfile" preserve="all" />
+    <type fullname="Gaia.GaiaSceneLighting" preserve="all" />
+    <type fullname="Gaia.GaiaScenePlayer" preserve="all" />
+    <type fullname="Gaia.GaiaSceneWater" preserve="all" />
+    <type fullname="Gaia.GaiaUnderwaterEffects" preserve="all" />
+    <type fullname="Gaia.LocationSystem" preserve="all" />
+    <type fullname="Gaia.LocationSystemScriptableObject" preserve="all" />
+    <type fullname="Gaia.ParentScaler" preserve="all" />
+    <type fullname="Gaia.PhotoMode" preserve="all" />
+    <type fullname="Gaia.PhotoModeButtonManager" preserve="all" />
+    <type fullname="Gaia.PhotoModeColorPicker" preserve="all" />
+    <type fullname="Gaia.PhotoModePanelButton" preserve="all" />
+    <type fullname="Gaia.PhotoModeProfile" preserve="all" />
+    <type fullname="Gaia.PhotoModeUIHelper" preserve="all" />
+    <type fullname="Gaia.PWS_WaterSystem" preserve="all" />
+    <type fullname="Gaia.SceneProfile" preserve="all" />
+    <type fullname="Gaia.ScreenshotSavedManager" preserve="all" />
+    <type fullname="Gaia.ScreenShotter" preserve="all" />
+    <type fullname="Gaia.TerrainDetailOverwrite" preserve="all" />
+    <type fullname="Gaia.TerrainLoaderManager" preserve="all" />
+    <type fullname="Gaia.TerrainSceneStorage" preserve="all" />
+    <type fullname="Gaia.Tooltip" preserve="all" />
+    <type fullname="Gaia.TooltipManager" preserve="all" />
+    <type fullname="Gaia.TooltipProfile" preserve="all" />
+    <type fullname="Gaia.TooltipTrigger" preserve="all" />
+    <type fullname="Gaia.UIConfiguration" preserve="all" />
+    <type fullname="Gaia.UIControllerSelection" preserve="all" />
+    <type fullname="Gaia.WindManager" preserve="all" />
+    <type fullname="Gameplay" preserve="all" />
+    <type fullname="ProceduralWorlds.HierachySystem.GaiaHierarchyUtils" preserve="all" />
+    <type fullname="Gaia.BoundsDouble" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.GaiaLightingProfileValues" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.GaiaPlanarReflections/PlanarReflectionSettings" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.GaiaTimeOfDay" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.GaiaWaterProfileValues" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.GaiaWeather" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.LocationBookmarkSettings" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkyAtmosphere" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkyCloud" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkyRain" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkySeason" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkySnow" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkyThunder" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkyWeather" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PWSkyWind" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PhotoModePanel" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PhotoModePanelTransformSettings" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.PhotoModeValues" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.ReflectionProbeData" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.SceneConditionsData" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.TooltipProfileData" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.TooplipThemeSetup" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.UIControllerType" preserve="nothing" serialized="true" />
+    <type fullname="Gaia.Vector3Double" preserve="nothing" serialized="true" />
+    <type fullname="ProceduralWorlds.HierachySystem.GaiaHierarchyVisibility" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioReverbFilter" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.FlareLayer" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LightProbes" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.CharacterController" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Terrain" preserve="all" />
+    <type fullname="UnityEngine.TerrainData" preserve="all" />
+    <type fullname="UnityEngine.TerrainLayer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainPhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.TerrainCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Dropdown" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.WindModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.WindZone" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
